@@ -36,7 +36,7 @@ single class-based module.
 For a detailed explanation of the design decisions and justification,
 please refer to the full project report:
 
-- `Automated_E-Commerce_Sales_Reporting_Pipeline.pdf`
+- `BashOperator and Class-Based Design Implementation.pdf`
 
 ## Material
 
@@ -45,7 +45,7 @@ please refer to the full project report:
   the PDF report
 - `amazon_sales_reporting_dag_bash.py`: Airflow DAG definition using
   BashOperator
-- `Automated_E-Commerce_Sales_Reporting_Pipeline.pdf`: Full project report
+- `BashOperator and Class-Based Design Implementation.pdf`: Full project report
 
 
 ## Related Project
