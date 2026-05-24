@@ -25,11 +25,7 @@ single class-based module.
 
 - Automated ETL pipeline using Apache Airflow with BashOperator
 - Single class-based module consolidating all pipeline logic
-- Weekly KPI reporting (Revenue, Orders, AOV, WoW growth)
-- Data visualisation using Matplotlib
-- PDF report generation
-- AWS S3 integration for data ingestion and storage
-- Environment-based configuration following the Twelve-Factor App methodology
+
 
 ## Documentation
 
