@@ -25,6 +25,7 @@ single class-based module.
 
 - Automated ETL pipeline using Apache Airflow with BashOperator
 - Single class-based module consolidating all pipeline logic
+- - Environment-based configuration via `.env` (no hardcoded credentials)
 
 
 ## Documentation
